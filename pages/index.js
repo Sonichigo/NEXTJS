@@ -84,6 +84,7 @@ export default function Home() {
         <main className={mainstyles.main}>
           <div className={mainstyles.heading}>
             <h1>Product Headline</h1>
+            <div></div>
             <div className={mainstyles.cta}>
               <button className="btn btn-lg btn-warning mt-3 cta">
                 <span>Call To Action</span>
