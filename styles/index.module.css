@@ -15,16 +15,12 @@
     align-items: center;
     justify-content: space-between;
   }
-  /*
-  .navbar_nav {
-    display: flex;
-    flex-direction: column;
-    padding-left: 0;
-    margin-bottom: 0;
-    list-style: none;
-}
-  */
   
+  .nav-link {
+    display: flex;
+    align-items: right;
+    justify-content: space-between;
+}
   .nav {
     padding-left: 2rem !important;
     padding-right: 2rem !important;
